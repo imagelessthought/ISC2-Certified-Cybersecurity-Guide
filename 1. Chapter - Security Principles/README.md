@@ -4,6 +4,8 @@
 
 Domain D1.1.1, D1.1.2, D1.1.3, D1.1.4, D1.1.5, D1.1.6
 
+## CIA Triad: Confidentiality, Integrity, Availability
+
 ### Confidentiality
 
 It relates to permitting authorized access to information, while at the same time protecting information from improper disclosure. Difficulties to achieve confidentiality are related to: many users are guests or customers, and it is not clear if the access comes from a compromised machine or vulnerable mobile application. To avoid those difficulties, security professionals must regulate access, permitting access to authorized individuals, for that protecting the data that needs protection. 
