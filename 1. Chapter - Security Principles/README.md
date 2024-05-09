@@ -157,7 +157,7 @@ Takeaways to remember about risk identification:
 * Employees at all levels of the organization are responsible for identifying risk.
 * Identify risk to protect against it.
 
-As a security professional, you are likely to assist in risk assessment at a system level, focusing on process, control, monitoring or incident response and recovery activities. If you’re working with a smaller organization, or one that lacks any kind of risk management and mitigation plan and program, you might have the opportunity to help fill that planning void.
+**As a security professional, you are likely to assist in risk assessment at a system level, focusing on process, control, monitoring or incident response and recovery activities. If you’re working with a smaller organization, or one that lacks any kind of risk management and mitigation plan and program, you might have the opportunity to help fill that planning void.**
 
 ### Risk Assessment
 
